@@ -1,0 +1,22 @@
+{
+  "eggs": {
+    "amount": 12,
+    "unit": "count"
+  },
+  "rice": {
+    "amount": 2.5,
+    "unit": "cups"
+  },
+  "ground beef": {
+    "amount": 1.0,
+    "unit": "pounds"
+  },
+  "penne": {
+    "amount": 4.0,
+    "unit": "cups"
+  },
+  "marinara sauce": {
+    "amount": 4.0,
+    "unit": "cups"
+  }
+}
