@@ -1,5 +1,9 @@
 # Meal Planner Technical Report
 
+## Code Repository
+
+Code is available at https://github.com/J-Morrey/deployment_project.git
+
 ## Objectives
 - Provide text/voice meal planning with a 3–7 day plan and shopping list.
 - Generate pantry-aware recipes that only use available ingredients.
